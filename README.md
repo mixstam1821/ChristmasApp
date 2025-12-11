@@ -24,7 +24,7 @@ It is both a playful holiday visualization and a creative way to explore real cl
 
 ## 🖼️ Additional Preview
 
-![Lights Example](assets/lights_example.png)
+![Lights Example](assets/Peek 2025-12-11 22-49.gif)
 
 ---
 

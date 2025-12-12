@@ -70,8 +70,8 @@ CSV, TXT, XLS and XLSX are supported.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/christmas-lights-visualization.git
-cd christmas-lights-visualization
+git clone https://github.com/mixstam1821/ChristmasApp.git
+cd ChristmasApp
 ```
 ### 2. Install dependencies
 ```bash
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run the app
 ```bash
-bokeh serve --show app.py
+bokeh serve --show ChristmasApp.py
 ```
 
 

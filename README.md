@@ -56,11 +56,13 @@ It is both a playful holiday visualization and a creative way to explore real cl
 
 ### 📤 File Upload Support
 Upload your own data formatted as:
-
+```
 year,value
-1990,0.12
-1991,0.09
 
+1990,0.12
+
+1991,0.09
+```
 
 CSV, TXT, XLS and XLSX are supported.
 

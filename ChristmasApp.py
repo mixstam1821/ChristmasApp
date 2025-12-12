@@ -6,7 +6,6 @@ from bokeh.models import (ColumnDataSource, ImageURL, Div, Row, Column,
                           FixedTicker, Select, Slider, TextInput, ColorPicker,
                           Button, FileInput, PreText, Title, CustomJS)
 from bokeh.layouts import layout
-import xarray as xr
 import pandas as pd
 import base64
 import io

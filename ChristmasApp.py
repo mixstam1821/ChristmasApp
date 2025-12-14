@@ -408,7 +408,7 @@ controls = Row(
     text_y_slider,
     text_size_slider,
     text_color_picker,
-    Div(text="<h3>Custom Data Upload</h3>"),
+    Div(text="<h1>Custom Data Upload</h1>Example:<br> year,value <br>1990,0.12 <br>1991,0.09"),
     file_input,
     file_status,
     ),
